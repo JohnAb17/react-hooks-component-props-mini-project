@@ -7,5 +7,5 @@ function Header({ name }) {
     </header>
   );
 }
-
+//test to make sure my code works
 export default Header;
